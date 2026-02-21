@@ -16,9 +16,9 @@ const noMessages = [
     "Kalo kamu ga mau, aku bakalan sedih...",
     "Nangis nihh... 😢",
     "Please??? 💔",
-    "Jangan gitu dongg...",
+    "Coba aja klik kalo bisa, wleeeee 😜",
     "Kesempatan terakhir! Kamu beneran ga mau? 😭",
-    "Coba aja klik kalo bisa, wleeeee 😜"
+    "Jangan gitu dong..."
 ]
 
 const yesTeasePokes = [
