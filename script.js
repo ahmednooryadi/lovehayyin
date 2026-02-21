@@ -17,7 +17,7 @@ const noMessages = [
     "Nangis nihh... 😢",
     "Please??? 💔",
     "Jangan gitu dongg...",
-    "Kesempatan terakhir! 😭",
+    "Kesempatan terakhir! Kamu beneran ga mau? 😭",
     "Coba aja klik kalo bisa, wleeeee 😜"
 ]
 
